@@ -1,8 +1,8 @@
-#Hi I'm Your Guide
+# Hi I'm Your Guide
 
 Here's a list of the non-technical TODO:
 
-#Things to Track:
+# Things to Track:
 
 ## Overall Metrics
  * pH
@@ -19,7 +19,7 @@ Here's a list of the non-technical TODO:
  * Water Pump Status
  * all the stuff from overall metrics
 
-##Operations
+## Operations
  * Add new plant
    * set pH, nutrition, day/night periods
      * warn if incompatible w/ other plants in circuit
@@ -29,7 +29,7 @@ Here's a list of the non-technical TODO:
  * Remove Circuit
  * Manage Circuit Else-how
 
-##View
+## View
 ### Constant Display
  * view alerts
  * view critical circuit/plant statuses
