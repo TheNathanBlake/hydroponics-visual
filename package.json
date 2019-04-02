@@ -1,0 +1,30 @@
+{
+  "name": "hydroponics-visual",
+  "version": "1.0.0",
+  "description": "Contains endpoints for a visual monitoring system and defines how they retrieve system info",
+  "main": "index.js",
+  "scripts": {
+    "test": "heartbeat",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNathanBlake/hydroponics-visual.git"
+  },
+  "keywords": [
+    "visual",
+    "hydroponics",
+    "rest",
+    "api"
+  ],
+  "author": "Nathan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNathanBlake/hydroponics-visual/issues"
+  },
+  "homepage": "https://github.com/TheNathanBlake/hydroponics-visual#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
